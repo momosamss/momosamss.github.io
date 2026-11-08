@@ -364,3 +364,4 @@ footer span { color:var(--accent); }
 @media(max-width:600px){
   .hero-stats { gap:1.5rem; }
 }
+
