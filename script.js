@@ -69,6 +69,7 @@ const COMMANDS = {
   'ls projets/': () => `<div class="line-out">▸ <a href="TP-VLAN-routage-ACL-Cisco.pdf" download class="term-link term-download">TP-VLAN-routage-ACL-Cisco.pdf</a> <span class="hl">(rapport PDF)</span></div>
 <div class="line-out">▸ <a href="tp4-pt-vlan.pkt" download class="term-link term-download">tp4-pt-vlan.pkt</a> <span class="hl">(Packet Tracer VLAN)</span></div>
 <div class="line-out">▸ <a href="tp4-pt-vlan-acl.pkt" download class="term-link term-download">tp4-pt-vlan-acl.pkt</a> <span class="hl">(Packet Tracer VLAN + ACL)</span></div>
+<div class="line-out">▸ <a href="API-REST-FatFree-PHP-VueJS.pdf" download class="term-link term-download">API-REST-FatFree-PHP-VueJS.pdf</a> <span class="hl">(API REST Fat-Free PHP + Vue.js)</span></div>
 <div class="line-out">▸ <a href="rapport-de-stage.odt" download class="term-link term-download">rapport-de-stage.odt</a> <span class="hl">(stage ALPI)</span></div>`,
 
   'cat rapport': () => {
